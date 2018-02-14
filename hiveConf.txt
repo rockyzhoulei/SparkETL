@@ -1,0 +1,2 @@
+sudo cp /etc/hive/conf/hive-site.xml /etc/spark/conf/
+
